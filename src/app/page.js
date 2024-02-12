@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gradient-to-r from-cyan-500 to-blue-500">
@@ -11,8 +12,8 @@ export default function Home() {
             <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
           </svg>
         </div>
-        <div class="max-w-lg p-8 bg-white rounded-lg shadow-md flex flex-col items-center">
-          <img src="src\app\image.png"></img>
+        <div class="max-w-lg p-8 mt-16 bg-white rounded-lg shadow-md flex flex-col items-center">
+          <Image src="/image.png" alt="Description of image" width={100} height={100} /> <br />
           <h1 class="text-4xl font-bold text-center mb-6">Welcome to the OSINT Challenge</h1>
           <p class="text-lg mb-4">Congratulations! You've made it this far.</p>
           <p class="text-lg mb-6">Now, your mission is to find the flag.</p>
