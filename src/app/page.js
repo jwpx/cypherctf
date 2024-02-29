@@ -32,8 +32,8 @@ export default function Home() {
                   world.
                 </p>
                 <div className=' text-4xl flex lg:justify-start justify-center gap-16 py-3 text-white'>
-                  <a href="https://www.linkedin.com/in/jethendri/" target="_blank"><AiFillLinkedin /></a>
-                  <a href="https://github.com/jwpx" target="_blank"><FaXTwitter /></a>
+                  <a href="https://www.linkedin.com/" target="_blank"><AiFillLinkedin /></a>
+                  <a href="https://twitter.com/CypherCtf" target="_blank"><FaXTwitter /></a>
                 </div>
               </div>
               <div className=' rounded-full w-80 h-80 overflow-hidden mx-auto'>
