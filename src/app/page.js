@@ -3,12 +3,12 @@ import avatar from 'D:/reactjs/cypherctf/public/avatar2.png';
 import { 
   AiFillLinkedin} from 'react-icons/ai';
 import { FaXTwitter } from "react-icons/fa6";
-import web1 from 'D:/reactjs/cypherctf/public/web2.jpg';
-import web2 from 'D:/reactjs/cypherctf/public/web2.jpg';
-import web3 from 'D:/reactjs/cypherctf/public/web2.jpg';
-import web4 from 'D:/reactjs/cypherctf/public/web3.jpg';
-import web5 from 'D:/reactjs/cypherctf/public/web3.jpg';
-import web6 from 'D:/reactjs/cypherctf/public/web3.jpg';
+import web1 from '/public/web2.jpg';
+import web2 from '/public/web2.jpg';
+import web3 from '/public/web2.jpg';
+import web4 from '/public/web3.jpg';
+import web5 from '/public/web3.jpg';
+import web6 from '/public/web3.jpg';
 
 export default function Home() {
   return (
