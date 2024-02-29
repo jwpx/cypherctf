@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import avatar from 'D:/reactjs/cypherctf/public/avatar.jpg'; 
+import avatar from 'D:/reactjs/cypherctf/public/avatar2.png'; 
 import { 
   AiFillLinkedin} from 'react-icons/ai';
 import { FaXTwitter } from "react-icons/fa6";
