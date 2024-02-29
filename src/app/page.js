@@ -41,7 +41,7 @@ export default function Home() {
               </div>
             </div>
             <div className=' flex flex-wrap gap-10 lg:max-w-6xl lg:px-20 m-auto lg:py-4 py-12 justify-center lg:justify-start'>
-              <div><h3 className=' text-xl text-neutral-900 font-medium'>flag&#123;oh_sint_you_found_it&#125;</h3></div>
+              <div><h3 className=' text-l text-neutral-900 font-medium'>flag&#123;oh_sint_you_found_it&#125;</h3></div>
             </div>
       </section>
       <div class="custom-shape-divider-bottom-1709113727">
